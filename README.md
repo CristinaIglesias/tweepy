@@ -1,6 +1,7 @@
 
+![Comparison product](https://user-images.githubusercontent.com/68432004/143091915-885df36e-24a8-4123-a094-9e7c053a8d2f.png)
 ## App
-
+    
     Comparison between two products
 
 ## Resources
